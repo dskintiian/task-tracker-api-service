@@ -1,0 +1,13 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
